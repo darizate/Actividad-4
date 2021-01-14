@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+ }
+
+ body { 
+     margin: 0;
+     background-color: black;
+ }
+
+ .bloquetitulo {
+     font-size: 40px;
+     letter-spacing: 1px;
+     margin: 0;
+     padding-top: 50px;
+     text-align: center;
+     font-family: Segoe print;
+     color: white;
+ }
+
+ .parrafotitulo1 {
+     letter-spacing: 1px;
+     font-family: cursive;
+     color: white (100, 78, 78);
+     margin-top: -30px;
+     text-align: center;
+     font-size: 25px;
+     padding-bottom: 35px;
+ }
+
+ .iconotecnicasdehigiene { 
+     padding-top: 55px;
+     
+ }
+
+
+
+ .bloquetitulo2 { 
+     width: 100%;
+     display: inline-block;
+     font-size: 35px;
+     letter-spacing: 1px;
+     margin: 0;
+     padding-top: 35px;
+     color:black;
+     font-family: Segoe print;
+     text-align: center;     
+     background-image: url(../imagenes/fondo1.jpg);
+     background-attachment: fixed;
+     background-size: 100% 200%;
+ }
+
+ .parrafotitulo2 {letter-spacing: 1px;
+    font-family: cursive;
+    color: black;
+    text-align: left;
+    margin-left: 85px;
+    margin-right: 100px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 24px;
+    float: left
+    ;
+ }
